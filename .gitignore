@@ -1,0 +1,7 @@
+bin/*
+!/bin/microvent.min.js
+lib/*
+doc/*
+node_modules
+test/spec/index.html
+**/*.log

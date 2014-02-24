@@ -1,0 +1,21 @@
+{
+  "name": "Microvent",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "lib",
+    "src",
+    "test",
+    "package.json",
+    "README",
+    "Gruntfile.js"
+  ],
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "chai": "~1.8.1",
+    "requirejs": "~2.1.10",
+    "my-gizmo": "~0.0.2"
+  }
+}
