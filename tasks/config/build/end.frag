@@ -1,2 +1,2 @@
-  return require('Microvent/main');
+  return Microvent;
 }));

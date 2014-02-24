@@ -6,10 +6,11 @@ amdclean = require('amdclean');
 config = {
   taskName: 'requirejs.complile',
   options: {
-    name: 'src/Microvent',
+    baseUrl: 'src/',
+    name: 'Microvent',
     out: 'bin/microvent.min.js',
     paths: {
-      Gizmo: 'lib/my-gizmo/bin/gizmo.min'
+      Gizmo: '../lib/my-gizmo/bin/gizmo.min'
     },
     onModuleBundleComplete: function (data) {
       var outputFile = data.path;
