@@ -2,6 +2,7 @@
   "name": "Microvent",
   "version": "0.0.0",
   "license": "MIT",
+  "main": "bin/microvent.min.js",
   "ignore": [
     "**/.*",
     "node_modules",

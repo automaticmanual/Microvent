@@ -1,4 +1,4 @@
-Microvent [![Build Status](https://travis-ci.org/rstone770/Microvent.png?branch=master)](https://travis-ci.org/rstone770/Microvent)
+Microvent [![Build Status](https://travis-ci.org/rstone770/Microvent.png?branch=master)](https://travis-ci.org/rstone770/Microvent) [![Bower version](https://badge.fury.io/bo/my-gizmo.png)](http://badge.fury.io/bo/my-gizmo)
 =========
 
 A teeny tiny polka dotted event driver. This is a no nonsense event driver that provides some nice features in a tiny package. Plays nicely as with commonjs, amd and global.
@@ -6,7 +6,7 @@ A teeny tiny polka dotted event driver. This is a no nonsense event driver that 
 ##Install
 As easy as 
 ```
-  bower install microvent --save
+bower install microvent --save
 ```
 
 ##Build
